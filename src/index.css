@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.btn {
+  padding: 14px 32px;
+  border: 1px solid green;
+  background-color: green;
+  color: #fff;
+  border-radius: 24px 4px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
