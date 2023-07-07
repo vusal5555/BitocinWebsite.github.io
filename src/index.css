@@ -16,3 +16,7 @@ html {
   font-weight: 600;
   cursor: pointer;
 }
+
+.clip {
+  clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 100%);
+}

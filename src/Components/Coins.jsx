@@ -14,7 +14,7 @@ const Coins = () => {
   }, []);
 
   return (
-    <div className="bg-gray-200" id="coin">
+    <div className="bg-gray-200 clip" id="coin">
       <div className="max-w-[1140px] m-auto grid md:grid-cols-2 mt-[10rem] py-[5rem] items-center gap-[2rem] px-4 lg:px-0">
         <div>
           <h2 className="text-2xl md:text-4xl font-bold mb-4">
