@@ -6,7 +6,7 @@ const Contact = () => {
       <div className="max-w-[1140px] m-auto grid md:grid-cols-2 items-center mt-[10rem] px-4 lg:px-0">
         <div>
           <img
-            src="./src/assets/trade.png"
+            src="./trade.png"
             className="w-[400px] h-full mb-5 lg:mb-0"
             alt=""
           />
