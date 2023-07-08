@@ -24,11 +24,7 @@ const Hero = () => {
         </div>
 
         <div>
-          <img
-            className="w-full h-full"
-            src="./src/assets/hero-img.png"
-            alt=""
-          />
+          <img className="w-full h-full" src="./hero-img.png" alt="" />
         </div>
       </div>
     </div>
